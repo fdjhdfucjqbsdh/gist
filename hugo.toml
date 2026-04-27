@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://fdjhdfucjqbsdh.github.io/gist'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "gists"
