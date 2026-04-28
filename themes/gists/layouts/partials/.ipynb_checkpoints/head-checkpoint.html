@@ -26,7 +26,7 @@
     content="{{ if .IsHome }}{{ .Site.Params.tagline }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
     <meta name="keywords"
         content='{{ with .Params.Keywords }}{{ delimit . ", " }}{{ else }}{{ $.Site.Params.Keywords }}{{ end }}' />
-    <meta name="robots" content="noodp" />
+  <meta name="robots" content="index, follow" />
     <link rel="canonical" href="{{ .Permalink }}" />
     
     <!-- Twitter Card -->
