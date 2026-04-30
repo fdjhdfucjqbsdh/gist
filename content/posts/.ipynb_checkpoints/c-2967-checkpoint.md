@@ -21,9 +21,7 @@ url: [ https://j91.asia/v/c-2967]
 
 ---
 
----
-
-<div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/c-2966/">PREV</a></div>
-  <div><a href="/posts/dldss-487/">NEXT</a> →</div>
-</div>
+<p align="right">
+  PREV: <a href="/posts/c-2966/">/posts/c-2966/</a><br>
+  NEXT: <a href="/posts/dldss-487/">/posts/dldss-487/</a>
+</p>

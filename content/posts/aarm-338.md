@@ -21,6 +21,9 @@ url: [ https://j91.asia/v/aarm-338]
 
 ---
 
-<p align="right">
-  NEXT: <a href="/posts/agav-168/">/posts/agav-168/</a>
-</p>
+---
+
+<div style="display:flex; justify-content:space-between;">
+  <div></div>
+  <div><a href="/posts/agav-168/">NEXT</a> →</div>
+</div>

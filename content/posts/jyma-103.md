@@ -21,7 +21,9 @@ url: [ https://j91.asia/v/jyma-103]
 
 ---
 
-<p align="right">
-  PREV: <a href="/posts/gs-2139/">/posts/gs-2139/</a><br>
-  NEXT: <a href="/posts/kagp-392/">/posts/kagp-392/</a>
-</p>
+---
+
+<div style="display:flex; justify-content:space-between;">
+  <div>← <a href="/posts/gs-2139/">PREV</a></div>
+  <div><a href="/posts/kagp-392/">NEXT</a> →</div>
+</div>
