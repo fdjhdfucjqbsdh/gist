@@ -21,9 +21,7 @@ url: [ https://j91.asia/v/kagp-392]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/jyma-103/">PREV</a></div>
-  <div><a href="/posts/mbdd-2168/">NEXT</a> →</div>
+  <div>← <a href="/posts/kagp-387/">PREV</a></div>
+  <div><a href="/posts/kam-269/">NEXT</a> →</div>
 </div>

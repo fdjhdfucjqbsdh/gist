@@ -21,9 +21,7 @@ url: [ https://j91.asia/v/embm-051]
 
 ---
 
----
-
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/dldss-487/">PREV</a></div>
-  <div><a href="/posts/gs-2139/">NEXT</a> →</div>
+  <div>← <a href="/posts/embm-049/">PREV</a></div>
+  <div><a href="/posts/embz-336/">NEXT</a> →</div>
 </div>
