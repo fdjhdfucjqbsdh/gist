@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mimk-268]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mimk-268">
+  <a href="https://hlsvideo.uk/toplay/v/mimk-268">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/mimk-268]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/mimk-266/">PREV</a></div>
+  <div>← <a href="/posts/mimk-267/">PREV</a></div>
   <div><a href="/posts/mimk-269/">NEXT</a> →</div>
 </div>

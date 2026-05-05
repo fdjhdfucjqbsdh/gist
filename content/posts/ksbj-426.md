@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/ksbj-426]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/ksbj-426">
+  <a href="https://hlsvideo.uk/toplay/v/ksbj-426">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/ksbj-426]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ksbj-423/">PREV</a></div>
-  <div><a href="/posts/ktb-107/">NEXT</a> →</div>
+  <div><a href="/posts/ksbj-428/">NEXT</a> →</div>
 </div>

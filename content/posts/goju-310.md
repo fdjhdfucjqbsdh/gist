@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/goju-310]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/goju-310">
+  <a href="https://hlsvideo.uk/toplay/v/goju-310">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>

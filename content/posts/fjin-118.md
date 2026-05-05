@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/fjin-118]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/fjin-118">
+  <a href="https://hlsvideo.uk/toplay/v/fjin-118">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>

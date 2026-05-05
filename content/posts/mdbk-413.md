@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mdbk-413]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mdbk-413">
+  <a href="https://hlsvideo.uk/toplay/v/mdbk-413">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/mdbk-413]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mdbk-411/">PREV</a></div>
-  <div><a href="/posts/mdon-089/">NEXT</a> →</div>
+  <div><a href="/posts/mdhr-002/">NEXT</a> →</div>
 </div>

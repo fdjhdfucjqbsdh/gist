@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/xvsr-865]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/xvsr-865">
+  <a href="https://hlsvideo.uk/toplay/v/xvsr-865">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>

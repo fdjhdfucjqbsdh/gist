@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/ebon-004]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/ebon-004">
+  <a href="https://hlsvideo.uk/toplay/v/ebon-004">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/ebon-004]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/dvrt-073/">PREV</a></div>
+  <div>← <a href="/posts/dvrt-074/">PREV</a></div>
   <div><a href="/posts/ebon-005/">NEXT</a> →</div>
 </div>

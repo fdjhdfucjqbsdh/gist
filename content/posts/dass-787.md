@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/dass-787]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/dass-787">
+  <a href="https://hlsvideo.uk/toplay/v/dass-787">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/dass-787]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/dandya-032/">PREV</a></div>
+  <div>← <a href="/posts/dandya-034/">PREV</a></div>
   <div><a href="/posts/dass-804/">NEXT</a> →</div>
 </div>

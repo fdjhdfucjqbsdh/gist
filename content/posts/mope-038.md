@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mope-038]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mope-038">
+  <a href="https://hlsvideo.uk/toplay/v/mope-038">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/mope-038]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/moor-061/">PREV</a></div>
+  <div>← <a href="/posts/moor-062/">PREV</a></div>
   <div><a href="/posts/mopp-114/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/start-536]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/start-536">
+  <a href="https://hlsvideo.uk/toplay/v/start-536">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/start-536]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/start-534/">PREV</a></div>
+  <div>← <a href="/posts/start-535/">PREV</a></div>
   <div><a href="/posts/start-537/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/ymdd-489]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/ymdd-489">
+  <a href="https://hlsvideo.uk/toplay/v/ymdd-489">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/ymdd-489]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/ymdd-488/">PREV</a></div>
-  <div><a href="/posts/ymds-249/">NEXT</a> →</div>
+  <div><a href="/posts/ymdd-490/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mird-282]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mird-282">
+  <a href="https://hlsvideo.uk/toplay/v/mird-282">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/mird-282]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/mird-279/">PREV</a></div>
+  <div>← <a href="/posts/mird-280/">PREV</a></div>
   <div><a href="/posts/mism-421/">NEXT</a> →</div>
 </div>

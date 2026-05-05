@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/ngod-321]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/ngod-321">
+  <a href="https://hlsvideo.uk/toplay/v/ngod-321">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>

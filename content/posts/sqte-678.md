@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/sqte-678]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/sqte-678">
+  <a href="https://hlsvideo.uk/toplay/v/sqte-678">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/sqte-678]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sqte-677/">PREV</a></div>
-  <div><a href="/posts/srob-043/">NEXT</a> →</div>
+  <div><a href="/posts/sqte-679/">NEXT</a> →</div>
 </div>

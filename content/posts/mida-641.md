@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mida-641]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mida-641">
+  <a href="https://hlsvideo.uk/toplay/v/mida-641">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/mida-641]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/mida-620/">PREV</a></div>
+  <div>← <a href="/posts/mida-628/">PREV</a></div>
   <div><a href="/posts/mifd-698/">NEXT</a> →</div>
 </div>

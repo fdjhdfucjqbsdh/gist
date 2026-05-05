@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/dazd-277]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/dazd-277">
+  <a href="https://hlsvideo.uk/toplay/v/dazd-277">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/dazd-277]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/daya-025/">PREV</a></div>
-  <div><a href="/posts/ddff-047/">NEXT</a> →</div>
+  <div><a href="/posts/dazd-287/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/yako-085]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/yako-085">
+  <a href="https://hlsvideo.uk/toplay/v/yako-085">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/yako-085]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/xvsr-872/">PREV</a></div>
+  <div>← <a href="/posts/xvsr-877/">PREV</a></div>
   <div><a href="/posts/yako-086/">NEXT</a> →</div>
 </div>

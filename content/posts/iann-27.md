@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/iann-27]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/iann-27">
+  <a href="https://hlsvideo.uk/toplay/v/iann-27">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/iann-27]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/hzgd-334/">PREV</a></div>
+  <div>← <a href="/posts/hzgd-335/">PREV</a></div>
   <div><a href="/posts/ibw-1005z/">NEXT</a> →</div>
 </div>

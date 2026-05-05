@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/mmgh-017]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/mmgh-017">
+  <a href="https://hlsvideo.uk/toplay/v/mmgh-017">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/mmgh-017]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/mmbf-006/">PREV</a></div>
-  <div><a href="/posts/mmkz-160/">NEXT</a> →</div>
+  <div><a href="/posts/mmks-033/">NEXT</a> →</div>
 </div>

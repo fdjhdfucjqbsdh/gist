@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/aarm-331]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/aarm-331">
+  <a href="https://hlsvideo.uk/toplay/v/aarm-331">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/aarm-331]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/042926_100-paco/">PREV</a></div>
+  <div>← <a href="/posts/050526_100-paco/">PREV</a></div>
   <div><a href="/posts/aarm-332/">NEXT</a> →</div>
 </div>

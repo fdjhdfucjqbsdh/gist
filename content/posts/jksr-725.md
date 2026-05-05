@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/jksr-725]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/jksr-725">
+  <a href="https://hlsvideo.uk/toplay/v/jksr-725">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/jksr-725]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/jjex-006/">PREV</a></div>
+  <div>← <a href="/posts/jjpp-199/">PREV</a></div>
   <div><a href="/posts/jksr-727/">NEXT</a> →</div>
 </div>

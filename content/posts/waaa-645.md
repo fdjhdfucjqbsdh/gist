@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/waaa-645]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/waaa-645">
+  <a href="https://hlsvideo.uk/toplay/v/waaa-645">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/waaa-645]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/waaa-637/">PREV</a></div>
-  <div><a href="/posts/wked-007/">NEXT</a> →</div>
+  <div>← <a href="/posts/waaa-644/">PREV</a></div>
+  <div><a href="/posts/waaa-647/">NEXT</a> →</div>
 </div>

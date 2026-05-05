@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/same-215]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/same-215">
+  <a href="https://hlsvideo.uk/toplay/v/same-215">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/same-215]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/same-212/">PREV</a></div>
-  <div><a href="/posts/same-217/">NEXT</a> →</div>
+  <div>← <a href="/posts/same-213/">PREV</a></div>
+  <div><a href="/posts/same-216/">NEXT</a> →</div>
 </div>

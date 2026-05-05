@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/juta-193]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/juta-193">
+  <a href="https://hlsvideo.uk/toplay/v/juta-193">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/juta-193]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/juta-192/">PREV</a></div>
-  <div><a href="/posts/juyu-001/">NEXT</a> →</div>
+  <div><a href="/posts/juta-194/">NEXT</a> →</div>
 </div>

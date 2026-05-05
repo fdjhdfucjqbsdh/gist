@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/ienf-395]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/ienf-395">
+  <a href="https://hlsvideo.uk/toplay/v/ienf-395">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>

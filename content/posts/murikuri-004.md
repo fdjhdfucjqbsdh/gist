@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/murikuri-004]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/murikuri-004">
+  <a href="https://hlsvideo.uk/toplay/v/murikuri-004">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/murikuri-004]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/murikuri-003/">PREV</a></div>
-  <div><a href="/posts/mvg-149/">NEXT</a> →</div>
+  <div><a href="/posts/murikuri-005/">NEXT</a> →</div>
 </div>

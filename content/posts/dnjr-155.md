@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/dnjr-155]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/dnjr-155">
+  <a href="https://hlsvideo.uk/toplay/v/dnjr-155">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/dnjr-155]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/dnjr-154/">PREV</a></div>
-  <div><a href="/posts/doa-135/">NEXT</a> →</div>
+  <div><a href="/posts/dnjr-156/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/sqis-118]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/sqis-118">
+  <a href="https://hlsvideo.uk/toplay/v/sqis-118">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/sqis-118]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sqis-116/">PREV</a></div>
-  <div><a href="/posts/sqte-645/">NEXT</a> →</div>
+  <div><a href="/posts/sqis-119/">NEXT</a> →</div>
 </div>

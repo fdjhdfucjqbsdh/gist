@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/moon-055]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/moon-055">
+  <a href="https://hlsvideo.uk/toplay/v/moon-055">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/moon-055]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/moon-053/">PREV</a></div>
-  <div><a href="/posts/moor-057/">NEXT</a> →</div>
+  <div><a href="/posts/moon-056/">NEXT</a> →</div>
 </div>

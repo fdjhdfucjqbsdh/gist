@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/sdab-349]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/sdab-349">
+  <a href="https://hlsvideo.uk/toplay/v/sdab-349">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/sdab-349]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/sdab-347/">PREV</a></div>
-  <div><a href="/posts/sdam-157/">NEXT</a> →</div>
+  <div><a href="/posts/sdab-350/">NEXT</a> →</div>
 </div>

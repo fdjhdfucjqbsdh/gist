@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/doks-671]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/doks-671">
+  <a href="https://hlsvideo.uk/toplay/v/doks-671">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/doks-671]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/doks-668/">PREV</a></div>
-  <div><a href="/posts/drop-133/">NEXT</a> →</div>
+  <div>← <a href="/posts/doks-669/">PREV</a></div>
+  <div><a href="/posts/doks-673/">NEXT</a> →</div>
 </div>

@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/pkpl-062]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/pkpl-062">
+  <a href="https://hlsvideo.uk/toplay/v/pkpl-062">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/pkpl-062]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/pkpl-061/">PREV</a></div>
-  <div><a href="/posts/pkpr-044/">NEXT</a> →</div>
+  <div><a href="/posts/pkpl-065/">NEXT</a> →</div>
 </div>

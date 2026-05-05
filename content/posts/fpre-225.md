@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/fpre-225]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/fpre-225">
+  <a href="https://hlsvideo.uk/toplay/v/fpre-225">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/fpre-225]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/fpre-224/">PREV</a></div>
-  <div><a href="/posts/fsbk-021/">NEXT</a> →</div>
+  <div><a href="/posts/fpre-226/">NEXT</a> →</div>
 </div>

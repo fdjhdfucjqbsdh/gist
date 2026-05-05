@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/sdmm-216]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/sdmm-216">
+  <a href="https://hlsvideo.uk/toplay/v/sdmm-216">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/sdmm-216]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/sdjs-367/">PREV</a></div>
+  <div>← <a href="/posts/sdjs-372/">PREV</a></div>
   <div><a href="/posts/sdmm-221/">NEXT</a> →</div>
 </div>

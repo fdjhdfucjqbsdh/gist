@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/svcao-025]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/svcao-025">
+  <a href="https://hlsvideo.uk/toplay/v/svcao-025">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/svcao-025]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/svcao-024/">PREV</a></div>
-  <div><a href="/posts/svers-003/">NEXT</a> →</div>
+  <div><a href="/posts/svcao-026/">NEXT</a> →</div>
 </div>

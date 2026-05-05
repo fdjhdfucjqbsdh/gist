@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/hale-072]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/hale-072">
+  <a href="https://hlsvideo.uk/toplay/v/hale-072">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/hale-072]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/gvh-840/">PREV</a></div>
+  <div>← <a href="/posts/gvh-842/">PREV</a></div>
   <div><a href="/posts/hale-073/">NEXT</a> →</div>
 </div>

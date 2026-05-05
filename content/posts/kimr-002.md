@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/kimr-002]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/kimr-002">
+  <a href="https://hlsvideo.uk/toplay/v/kimr-002">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/kimr-002]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/keed-90/">PREV</a></div>
-  <div><a href="/posts/kir-076/">NEXT</a> →</div>
+  <div><a href="/posts/kimr-003/">NEXT</a> →</div>
 </div>

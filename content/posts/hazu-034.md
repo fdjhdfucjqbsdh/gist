@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/hazu-034]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/hazu-034">
+  <a href="https://hlsvideo.uk/toplay/v/hazu-034">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -22,6 +22,6 @@ url: [ https://j91.asia/v/hazu-034]
 ---
 
 <div style="display:flex; justify-content:space-between;">
-  <div>← <a href="/posts/hawa-377/">PREV</a></div>
+  <div>← <a href="/posts/hawa-378/">PREV</a></div>
   <div><a href="/posts/hbad-724/">NEXT</a> →</div>
 </div>

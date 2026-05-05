@@ -12,7 +12,7 @@ url: [ https://j91.asia/v/aldn-581]
 ---
 
 <p align="center">
-  <a href="https://j91.asia/toplay/v/aldn-581">
+  <a href="https://hlsvideo.uk/toplay/v/aldn-581">
     <img src="https://images.prismic.io/ebayevo/ZwjFc4F3NbkBXO4Y_video-player_I1410-4911-4786-15677.png" width="800">
   </a>
 </p>
@@ -23,5 +23,5 @@ url: [ https://j91.asia/v/aldn-581]
 
 <div style="display:flex; justify-content:space-between;">
   <div>← <a href="/posts/aldn-580/">PREV</a></div>
-  <div><a href="/posts/alog-025/">NEXT</a> →</div>
+  <div><a href="/posts/aldn-582/">NEXT</a> →</div>
 </div>
