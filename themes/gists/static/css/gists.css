@@ -200,7 +200,7 @@ path { fill: var(--bs-tertiary-color) }
     background-color: var(--color-bg-tertiary)
 }
 .post-title {
-    font-size: 1.1rem;
+    font-size: 0.7rem;
 }
 .markdown-body table img {
     background-color: initial

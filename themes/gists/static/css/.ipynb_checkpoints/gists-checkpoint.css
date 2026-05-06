@@ -199,7 +199,9 @@ path { fill: var(--bs-tertiary-color) }
 .markdown-body table tr:nth-child(2n) {
     background-color: var(--color-bg-tertiary)
 }
-
+.post-title {
+    font-size: 0.7rem;
+}
 .markdown-body table img {
     background-color: initial
 }
@@ -307,18 +309,3 @@ body {
   display: none !important;
 }
 
-.hero {
-  background:#000;
-  color:#fff;
-}
-
-.card img {
-  width:100%;
-  aspect-ratio:3/4;
-  object-fit:cover;
-}
-
-.card:hover {
-  transform:scale(1.03);
-  transition:.2s;
-}
